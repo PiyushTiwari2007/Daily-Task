@@ -1,0 +1,7 @@
+jshell
+ System.out.print("hello Tim");
+
+jshell
+ int FirstNumber = 5;
+System.out.print(FirstNumber);
+
